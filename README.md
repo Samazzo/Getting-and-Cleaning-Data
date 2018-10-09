@@ -1,6 +1,6 @@
 # Getting-and-Cleaning-Data
 Final Assignment Coursera Week 4: Getting and Cleaning Data
-
+ 
 
 The run_analysis.R script performs the data preparation and then followed by the 5 steps required as described in the course project’s definition.
 
